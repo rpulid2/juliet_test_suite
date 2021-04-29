@@ -1,4 +1,4 @@
 name: "CodeQL config"
 
 queries:
-  - uses: cpp-security-and-quality
+  - uses: security-and-quality
